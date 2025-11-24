@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
-=======
 User-agent: *
 Allow: /
->>>>>>> 62434d7 (first commit)
